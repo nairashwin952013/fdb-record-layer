@@ -60,8 +60,8 @@
       <module name="fdb-record-layer-spatial_integrationTest" target="1.8" />
       <module name="fdb-record-layer-spatial_main" target="1.8" />
       <module name="fdb-record-layer-spatial_test" target="1.8" />
-      <module name="fdb-record-layer_main" target="1.8" />
-      <module name="fdb-record-layer_test" target="1.8" />
+      <module name="fdb-record-layer_main" target="11" />
+      <module name="fdb-record-layer_test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
